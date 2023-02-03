@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shop.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\basket.css",
+      "PackagePath": "staticwebassets\\css\\basket.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\card.css",
+      "PackagePath": "staticwebassets\\css\\card.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\catalog.css",
+      "PackagePath": "staticwebassets\\css\\catalog.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\dropdown.css",
+      "PackagePath": "staticwebassets\\css\\dropdown.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\general.css",
+      "PackagePath": "staticwebassets\\css\\general.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\item.css",
+      "PackagePath": "staticwebassets\\css\\item.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\page.css",
+      "PackagePath": "staticwebassets\\css\\page.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\css\\svg.css",
+      "PackagePath": "staticwebassets\\css\\svg.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\fonts\\Raleway-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\icons\\Mastercard.png",
+      "PackagePath": "staticwebassets\\icons\\Mastercard.png"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\icons\\Search.svg",
+      "PackagePath": "staticwebassets\\icons\\Search.svg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\icons\\Visa.png",
+      "PackagePath": "staticwebassets\\icons\\Visa.png"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\c1.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\c2.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\c3.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\c4.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\category\\04ej4jy2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\04ej4jy2.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\category\\5jrnglbu.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\5jrnglbu.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\preview2.jpg",
+      "PackagePath": "staticwebassets\\img\\preview2.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\preview3.jpg",
+      "PackagePath": "staticwebassets\\img\\preview3.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\preview4.jpg",
+      "PackagePath": "staticwebassets\\img\\preview4.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\preview5.jpg",
+      "PackagePath": "staticwebassets\\img\\preview5.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\preview6.jpg",
+      "PackagePath": "staticwebassets\\img\\preview6.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\product\\03wgkqjw.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\03wgkqjw.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\product\\1uddv0fh.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\1uddv0fh.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\product\\q5uh2vwo.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\q5uh2vwo.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\img\\product\\zirjamur.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\zirjamur.jpg"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\js\\dropdown.js",
+      "PackagePath": "staticwebassets\\js\\dropdown.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\js\\footer.js",
+      "PackagePath": "staticwebassets\\js\\footer.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\js\\header.js",
+      "PackagePath": "staticwebassets\\js\\header.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\js\\item.js",
+      "PackagePath": "staticwebassets\\js\\item.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\it\\Third Course\\Practice\\Week2\\Shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shop.props",
+      "PackagePath": "build\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.props",
+      "PackagePath": "buildMultiTargeting\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shop.props",
+      "PackagePath": "buildTransitive\\Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
